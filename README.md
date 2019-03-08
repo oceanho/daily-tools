@@ -1,1 +1,1 @@
-# daliy-tools
+# daily-tools
